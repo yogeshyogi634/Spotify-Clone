@@ -41,6 +41,15 @@ import img16 from "./img16.jpg";
 import song1 from "./song1.mp3";
 import song2 from "./song2.mp3";
 import song3 from "./song3.mp3";
+import song4 from "./song4.mp3";
+import song5 from "./song5.mp3";
+import song6 from "./song6.mp3";
+import song7 from "./song7.mp3";
+import song8 from "./song8.mp3";
+import song9 from "./song9.mp3";
+import song10 from "./song10.mp3";
+import song11 from "./song11.mp3";
+import song12 from "./song12.mp3";
 
 export const assets = {
   bell_icon,
@@ -143,40 +152,72 @@ export const songsData = [
     id: 3,
     name: "Song Four",
     image: img4,
-    file: song1,
+    file: song4,
     desc: "Put a smile on your face with these happy tunes",
-    duration: "2:50",
+    duration: "2:58",
   },
   {
     id: 4,
     name: "Song Five",
     image: img5,
-    file: song2,
+    file: song5,
     desc: "Put a smile on your face with these happy tunes",
-    duration: "3:10",
+    duration: "3:03",
   },
   {
     id: 5,
     name: "Song Six",
     image: img14,
-    file: song3,
+    file: song6,
     desc: "Put a smile on your face with these happy tunes",
-    duration: "2:45",
+    duration: "2:58",
   },
   {
     id: 6,
     name: "Song Seven",
     image: img7,
-    file: song1,
+    file: song7,
     desc: "Put a smile on your face with these happy tunes",
-    duration: "2:18",
+    duration: "2:34",
   },
   {
     id: 7,
     name: "Song Eight",
     image: img12,
-    file: song2,
+    file: song8,
     desc: "Put a smile on your face with these happy tunes",
-    duration: "2:35",
+    duration: "4:05",
+  },
+  {
+    id: 8,
+    name: "Song Nine",
+    image: img12,
+    file: song9,
+    desc: "Put a smile on your face with these happy tunes",
+    duration: "3:13",
+  },
+  {
+    id: 9,
+    name: "Song Ten",
+    image: img12,
+    file: song10,
+    desc: "Put a smile on your face with these happy tunes",
+    duration: "2:48",
+  },
+  {
+    id: 10,
+    name: "Song Eleven",
+    image: img12,
+    file: song11,
+    desc: "Put a smile on your face with these happy tunes",
+    duration: "2:44",
+  },
+  {
+    id: 11,
+    name: "Song Twelve",
+    image: img12,
+    file: song12,
+    desc: "Put a smile on your face with these happy tunes",
+    duration: "3:15",
   },
 ];
