@@ -20,7 +20,7 @@ const DisplayAlbum = () => {
             {albumData.name}
           </h2>
           <h4>{albumData.desc}</h4>
-          <p className="mt-1 flex items-center">
+          <p className="hidden xl:flex mt-1  items-center">
             <img
               src={assets.spotify_logo}
               alt=""
